@@ -4,3 +4,12 @@
   font-family: ui-sans-serif;
   font-weight: bold;
 }
+
+.bodybackground {
+  background: linear-gradient(
+    90deg,
+    rgba(209, 219, 170, 1) 0%,
+    rgba(237, 229, 211, 1) 35%,
+    rgba(228, 213, 196, 1) 100%
+  );
+}
