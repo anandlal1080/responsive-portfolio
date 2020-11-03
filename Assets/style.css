@@ -36,3 +36,13 @@
     margin-top: 20px;
   }
 }
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(49, 48, 56);
+  color: rgb(49, 48, 56);
+  text-align: center;
+}
